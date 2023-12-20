@@ -54,12 +54,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RedaHmimchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="150" src="https://external-media.spacehey.net/media/s61-6rl5zmSbl8tEh0CXSZiZEn2NKm25VK_EZPxY8C54=/https://media.tenor.com/33Xx-336nkMAAAAC/chainlink-bitcoin.gif"  />
 </div>
-
-###
-
-<div align="center">
-  <img height="333" src="https://external-media.spacehey.net/media/s61-6rl5zmSbl8tEh0CXSZiZEn2NKm25VK_EZPxY8C54=/https://media.tenor.com/33Xx-336nkMAAAAC/chainlink-bitcoin.gif"  />
-</div>
-
-###
