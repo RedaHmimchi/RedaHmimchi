@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ I'm a creative person<br>📚 I'm currently learning programming & cybersecurity<br>🕵🏻‍♂️ CTF Player<br>🎯 Goals: make my mom proud</p>
+<p align="left">✨ I'm a creative person<br>📚 I'm currently learning programming & cybersecurity<br>🕵🏻‍♂️ CTF Player<br> ✏️ Digital Artist and Video Editor<br>🎯 Goals: becoming insane</p>
 
 ###
 
