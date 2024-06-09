@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ I'm a creative person<br>📚 I'm currently learning programming & cybersecurity<br>🕵🏻‍♂️ CTF Player (Forensics / Steganography / OSINT)<br> ✏️ Digital Artist and Video Editor<br>🎯 Goals: becoming insane</p>
+<p align="left">✨ I'm a creative person<br>📚 Learning Computer Science at 1337 School<br>🕵🏻‍♂️ CTF Player: Forensics,Steganography,OSINT<br> 👨🏻‍💻 AKASEC Cybersecurity Club Member<br>🎯 Goals: becoming insane</p>
 
 ###
 
